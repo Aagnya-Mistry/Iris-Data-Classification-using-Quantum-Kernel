@@ -1,0 +1,20 @@
+# 🧪 Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Package files
+*.egg-info/
+dist/
+build/
+
+
+# 💻 VSCode specific (optional)
+.vscode/
+
+# 🚫 OS files
+.DS_Store
+Thumbs.db
